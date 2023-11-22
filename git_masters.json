@@ -52,5 +52,10 @@
             "year" : 1,
             "preferred_lang" : "C"
         }
+        {
+            "name" : "Sam",
+            "year" : 1,
+            "preferred_lang" : "C"
+        }
     ]
 }
